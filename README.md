@@ -6,7 +6,7 @@
             Hello World! 
         </h2>
         <h2 style="text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
-            In the field of IT since 2019 - present and only 14 years.   
+            In the field of IT since 2019 - present and i have only 14 years.   
         </h2>
     </p>
     <p align="center">
@@ -28,7 +28,7 @@
             || View Responsive Web Design Certification ||
         </h2>
         <h2 style="text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
-            ||View JavaScript Algorithms and Data Structures Certification ||
+            || View JavaScript Algorithms and Data Structures Certification ||
         </h2>
         <h2 style="text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
             || Scratch CODE.ORG ||
